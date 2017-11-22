@@ -2,7 +2,7 @@
 
 ### Setup
 1. Inside your `coding` folder that you created last week, create a new directory called `week-2`. USE THE TERMINAL COMMANDS WE LEARNED LAST WEEK!!! If you need help, reference this: [TERMINAL HELP](https://github.com/codebug-tech/week-1-A)
-1. Now, make a new file called `spacing-issues.html` in the `week-2` directory you just created. 
+1. Now, make a new file called `spacing-issues.html` in the `week-2-A` directory you just created. 
 1. Hold the `command` key and click on the `spacing-issues.html` link above. 
 1. Then navigate to the tab you just opened and click the `RAW` button on the right side of the page. 
 1. Copy all of the HTML from this page and paste it into the `spacing-issues.html` file you just created. Use Sublime to open the file.
