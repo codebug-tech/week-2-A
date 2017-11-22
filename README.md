@@ -3,9 +3,8 @@
 ### Setup
 1. Inside your `coding` folder that you created last week, create a new directory called `week-2`. USE THE TERMINAL COMMANDS WE LEARNED LAST WEEK!!! If you need help, reference this: [TERMINAL HELP](https://github.com/codebug-tech/week-1-A)
 1. Now, make a new file called `spacing-issues.html` in the `week-2` directory you just created. 
-1. Head back to the Github link we provided. 
-1. Hold the `command` key and click on `spacing-issues.html`. 
-1. Then navigate to the tab you just opened and click `RAW` on the right side of the page. 
+1. Hold the `command` key and click on the `spacing-issues.html` link above. 
+1. Then navigate to the tab you just opened and click the `RAW` button on the right side of the page. 
 1. Copy all of the HTML from this page and paste it into the `spacing-issues.html` file you just created. Use Sublime to open the file.
 1. Go back to your Terminal window and use the `open spacing-issues.html` command to open the HTML page in Chrome. If that doesn't work, just navigate to the file in Finder, and right-click on `spacing-issues.html`, then `Open With`, then `Google Chrome`. 
 1. You'll notice that when you look at the HTML page, everything looks great. But even though on the outside everything looks great, the inside (code) is a disaster!
